@@ -1,0 +1,29 @@
+1.go to https://discord.com/developers/applications and create your own bot
+2. invite your bot into your discord with the right perms
+go to bot section on the discord developer pannel and enable all of this for the bot
+Privileged Gateway Intents
+
+PRESENCE INTENT
+Required for your bot to receive Presence Update events.
+SERVER MEMBERS INTENT
+Required for your bot to receive events listed under GUILD_MEMBERS.
+MESSAGE CONTENT INTENT
+Required for your bot to receive message content in most messages.
+to make a invite link for your bot go to the OAuth2 section on discord dev portal and enable the following
+
+Scopes: enable only BOT
+Bot Perms:
+Send messages
+connect
+use voice activities
+moderate members
+view server insights
+view server subscription insights
+manage roles
+view audit log
+m
+3.go to https://botghost.com/ to host your bot online
+4.go to tokens.txt and paste your token from your bot in there
+5.Now run the code constently for you to record the voicechannels.Whats gonna happen is ever 5mins the text files will update
+the membertime will only update when a user leaves and will update ever 5 mins
+the members file is all the logs like when a user leaves/join/and how long they spent in said vc again will update every 5 mins

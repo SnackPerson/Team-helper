@@ -1,0 +1,12 @@
+1.Input Your server ID in server_id.txt
+2.For the preset buttons called monument/farmer/builder/leaders/ and base assistant you will need to do the following
+	2.1:https://discord.com/api/oauth2/authorize?client_id=1054712860414050365&permissions=3852618697472&scope=bot use this link to invite the bot
+	2.2:For The buttons to work please give your members with those roles called:
+	2.3:Farmers need a role called exactly("Farmer")
+	2.4:Monument players will need a role called("Monument")
+	2.5:Base Assistant players will need a role called("Base Assistant")
+	2.6:Builders will need a role called("Builder")
+	2.7:Leaders will need a role called("Captains")
+	2.8:You can make these roles invisible if you dont want to revamp your discord
+3.Or if you dont want to do that then you can use the Input role button to input the name of the roles and the list of users with said role
+4.For The build spot button for this to work please save the current image of the map and name it rust_map.png
